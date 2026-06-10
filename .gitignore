@@ -1,0 +1,11 @@
+.env
+.streamlit/secrets.toml
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+chart.png
+.ipynb_checkpoints/
+~$*
+low_stock_chart.png
+product_usage_trend.png

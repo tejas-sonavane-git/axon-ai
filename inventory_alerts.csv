@@ -1,0 +1,21 @@
+sku,product_name,current_stock,daily_usage_avg,days_of_supply,safety_stock_days,status,trend,alert_reason
+ISC-SEA-001,Momentive SilPruf SCS2000,2800,38,73.7,30,healthy,stable,None
+ISC-SEA-002,Momentive IS800 IG Sealant,1900,42,45.2,30,healthy,increasing,Demand rising due to new construction uptick
+ISC-SEA-003,H.B. Fuller Butyl Sealant,1500,35,42.9,30,healthy,stable,None
+ISC-SEA-005,Small Joint Sealant Clear,5600,65,86.2,14,healthy,stable,None
+ISC-GLS-001,Vitro Solarban 60 Low-E,800,12,66.7,45,watch,increasing,Long lead time (21 days) - monitor closely
+ISC-GLS-002,Vitro Solarban 72 Low-E,600,14,42.9,45,watch,increasing,Premium glass demand up 15% YoY
+ISC-DES-001,PUREX Desiccant 1.5mm,4200,48,87.5,30,healthy,stable,None
+ISC-IG-001,IG Clips Standard,25000,180,138.9,10,healthy,stable,None
+AT-HW-001,Encore Casement Operator,1600,18,88.9,30,healthy,stable,None
+AT-HW-002,Maxim Casement Lock,3200,32,100.0,30,healthy,stable,None
+AT-HW-004,Contour Commercial Lock,800,8,100.0,45,healthy,stable,None
+AT-HW-005,P3000 Multi-Point Door Lock,600,9,66.7,45,watch,increasing,Patio door season approaching - demand rising
+AT-WS-001,Q-Lon Foam Weatherstrip,15000,120,125.0,14,healthy,stable,None
+AT-WS-003,Compression Weatherstrip,8500,95,89.5,14,healthy,seasonal_up,Typical spring demand increase starting
+EVO-PPE-001,EVO Cooling Towel,3200,55,58.2,14,healthy,increasing,Summer approaching - seasonal demand rising
+EVO-PPE-002,EVO Cut-Resistant Gloves,4800,52,92.3,14,healthy,stable,None
+EVO-PPE-004,EVO Summer Cooling Vest,800,22,36.4,14,watch,increasing,OSHA heat awareness driving demand - lead time 7 days
+SCR-001,Fiberglass Screen 48in,9000,110,81.8,10,healthy,seasonal_up,Screen season beginning - expect demand increase
+ISC-WLD-001,Teflon Welder Fabric Std,1800,15,120.0,20,healthy,stable,None
+ISC-CUT-001,Silberschnitt Cutting Fluid,3400,28,121.4,20,healthy,stable,None

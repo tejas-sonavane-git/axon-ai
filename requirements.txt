@@ -1,0 +1,7 @@
+streamlit
+groq
+pandas
+matplotlib
+feedparser
+numpy
+openpyxl
