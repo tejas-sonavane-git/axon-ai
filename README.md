@@ -2,7 +2,8 @@
 
 **Upload any dataset. Ask anything. Get real answers.**
 
-Axon AI is a RAG-powered analytics assistant that lets users upload CSV data and interact with it through natural language. Built with a strict anti-hallucination architecture — every answer is grounded in actual data, never fabricated.
+Axon AI is a RAG-powered analytics assistant that lets users upload CSV datasets and explore them through natural language. It combines dataset retrieval, statistical context, LLM reasoning, and dynamically generated visualizations to support faster business analysis.
+The application is designed to reduce unsupported responses by grounding analytical questions in uploaded data and directing the model to identify when requested information is unavailable.
 
 ## 🎯 What It Does
 
